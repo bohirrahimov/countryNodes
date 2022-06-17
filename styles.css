@@ -1,0 +1,8 @@
+.node button{
+    width: 100%;
+    text-align: left;
+    margin: 2px 0;
+}
+.child{
+    margin-left: 30px;
+}
