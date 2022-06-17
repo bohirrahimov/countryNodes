@@ -2,7 +2,7 @@
   "name": "react-nodes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bohirrahimov.github.io",
+  "homepage": "https://bohirrahimov.github.io/countryNodes/",
   "dependencies": {
     "@apollo/client": "^3.6.8",
     "@testing-library/jest-dom": "^5.16.4",
